@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution on Frontend mentor](https://www.frontendmentor.io/solutions/huddle-using-some-flexbox-MaQb6TLKo)
+- Live Site URL: [The Live Site](https://skyrunner360.github.io/frontend-mentor-huddle-challenge/)
 
 ## My process
 
