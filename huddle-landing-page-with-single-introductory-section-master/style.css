@@ -1,0 +1,64 @@
+body{
+    background-image: url(images/bg-desktop.svg);
+    background-color: hsl(257, 40%, 49%);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    float: right;
+    margin-right: 15%;
+    font-size: xx-large;
+    word-wrap: break-word;
+}
+p{
+    text-align: right;
+    float: right;
+    margin-left: 40%;
+    font-size: 20px;
+    word-wrap: break-word;
+    padding-right: 150px;
+    margin-right: 140px;
+    
+}
+#logo{
+    margin-top: 0px;
+    display: flex;
+    align-content: start;
+}
+
+button{
+    float: right;
+    background-color: white;
+    border-radius: 6vh;
+    cursor: pointer;
+    font-size: 30px;
+    color: hsl(257, 40%, 49%);
+    padding: 14px;
+    border: 1px solid hsl(300, 69%, 71%);
+    box-shadow: 3px 3px 10px black;
+    width: 25vh;
+    margin-right: 40%;
+
+}
+button:hover{
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+}
+.icons{
+    cursor: pointer;
+    border-radius: 200px;
+    border: 2px solid white;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    margin: 10px;
+}
+#fb-ico{
+    margin-left: 60%;
+}
+#side-content{
+    float: right;
+}
